@@ -1,0 +1,6 @@
+fastapi>=0.115
+uvicorn
+python-multipart
+faster-whisper
+numpy
+opencv-python-headless>=4.8,<5
